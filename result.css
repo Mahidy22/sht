@@ -1,0 +1,45 @@
+
+input{
+    display: block;
+    padding: 5px;
+    background:indianred;
+    border: none;
+    border-radius: 5px;
+    margin: auto;
+    align-items: center;
+    margin-bottom: 5px;
+    min-width: 60%;
+    color: floralwhite;
+    font-weight: bold;
+    text-align: center;
+}
+
+#resultBtn{
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.container{
+    background:rgb(231, 43, 80);
+    margin: auto;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-width: 70%;
+    margin-top: 30px;
+    border-radius: 10px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+#average{
+    color : rgb(116, 240, 116);
+}
+
+#grade{
+    color : rgb(116, 209, 116)
+}
